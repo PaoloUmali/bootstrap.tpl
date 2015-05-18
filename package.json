@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap.tpl",
+  "version": "0.0.0",
+  "description": "my starter template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaoloUmali/bootstrap.tpl.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Paolo Umali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaoloUmali/bootstrap.tpl/issues"
+  },
+  "homepage": "https://github.com/PaoloUmali/bootstrap.tpl#readme"
+}
